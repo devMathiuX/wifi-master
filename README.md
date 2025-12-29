@@ -13,7 +13,7 @@ El script guarda los ultimos datos ingresados (BSSID,nombre de las tarjetas de r
 
 ## ¿Que precisamos?
 
-Solo tenemos que tener Python y ta 👍.
+Solo tenemos que tener Python y ta 👍 (En caso de usar Kali).
 
 ## Como usarlo
 
